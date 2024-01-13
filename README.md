@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hey,+i'm+higan;Welcome+to+my+profile)](https://git.io/typing-svg)
+
 <h3>skills</h3>
 <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br>
